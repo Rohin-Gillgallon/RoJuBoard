@@ -1,0 +1,15 @@
+services:
+  roju-db:
+    image: postgres:16-alpine
+    container_name: roju-postgres
+    environment:
+      - POSTGRES_USER=roju_admin
+      - POSTGRES_PASSWORD=roju_password
+      - POSTGRES_DB=roju_db
+    ports:
+      - "5433:5432"
+    volumes:
+      - roju-data:/var/lib/postgresql/data
+
+volumes:
+  roju-data:

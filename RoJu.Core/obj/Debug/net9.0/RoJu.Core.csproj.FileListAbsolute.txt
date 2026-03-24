@@ -1,0 +1,11 @@
+C:\Users\rohin\RoJuBoard\RoJu.Core\bin\Debug\net9.0\RoJu.Core.deps.json
+C:\Users\rohin\RoJuBoard\RoJu.Core\bin\Debug\net9.0\RoJu.Core.dll
+C:\Users\rohin\RoJuBoard\RoJu.Core\bin\Debug\net9.0\RoJu.Core.pdb
+C:\Users\rohin\RoJuBoard\RoJu.Core\obj\Debug\net9.0\RoJu.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohin\RoJuBoard\RoJu.Core\obj\Debug\net9.0\RoJu.Core.AssemblyInfoInputs.cache
+C:\Users\rohin\RoJuBoard\RoJu.Core\obj\Debug\net9.0\RoJu.Core.AssemblyInfo.cs
+C:\Users\rohin\RoJuBoard\RoJu.Core\obj\Debug\net9.0\RoJu.Core.csproj.CoreCompileInputs.cache
+C:\Users\rohin\RoJuBoard\RoJu.Core\obj\Debug\net9.0\RoJu.Core.dll
+C:\Users\rohin\RoJuBoard\RoJu.Core\obj\Debug\net9.0\refint\RoJu.Core.dll
+C:\Users\rohin\RoJuBoard\RoJu.Core\obj\Debug\net9.0\RoJu.Core.pdb
+C:\Users\rohin\RoJuBoard\RoJu.Core\obj\Debug\net9.0\ref\RoJu.Core.dll

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoJu.Api", "RoJu.Api\RoJu.Api.csproj", "{11D29E0A-4945-48DD-A161-42E257A16E1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoJu.Client", "RoJu.Client\RoJu.Client.csproj", "{D0664051-9A01-485B-BD87-D9F9596F914C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoJu.Core", "RoJu.Core\RoJu.Core.csproj", "{538E7D9C-27CB-4CD9-B9F2-70F5D29F02F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11D29E0A-4945-48DD-A161-42E257A16E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D29E0A-4945-48DD-A161-42E257A16E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D29E0A-4945-48DD-A161-42E257A16E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D29E0A-4945-48DD-A161-42E257A16E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0664051-9A01-485B-BD87-D9F9596F914C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0664051-9A01-485B-BD87-D9F9596F914C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0664051-9A01-485B-BD87-D9F9596F914C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0664051-9A01-485B-BD87-D9F9596F914C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{538E7D9C-27CB-4CD9-B9F2-70F5D29F02F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538E7D9C-27CB-4CD9-B9F2-70F5D29F02F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538E7D9C-27CB-4CD9-B9F2-70F5D29F02F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538E7D9C-27CB-4CD9-B9F2-70F5D29F02F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "RoJu.Core/1.0.0": {
+        "runtime": {
+          "RoJu.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RoJu.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

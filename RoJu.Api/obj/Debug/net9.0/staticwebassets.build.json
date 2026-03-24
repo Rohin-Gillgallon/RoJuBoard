@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9375E4fe7AuYNU77zq5HeFvPt4lMq4aOIpG7QyT2qM0=",
+  "Source": "RoJu.Api",
+  "BasePath": "_content/RoJu.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
